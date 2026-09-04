@@ -1,0 +1,15 @@
+# Operating system / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+__pycache__/
+
+# Local preview / tooling artifacts
+node_modules/
+dist/
+coverage/
